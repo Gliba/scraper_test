@@ -2,6 +2,7 @@
 
 ## Folder structure
 
+```
  ┣ 📂db
  ┃ ┣ 📜00-create-db.sql
  ┃ ┗ 📜01-create-table-products.sql
@@ -39,6 +40,7 @@
  ┣ 📜.env
  ┣ 📜docker-compose.yml
  ┗ 📜.prettierrc
+```
 
 ## Run everything together
 
